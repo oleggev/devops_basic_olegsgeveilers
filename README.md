@@ -1,1 +1,2 @@
-# devops_basic_olegsgeveilers
+# DevOps repozitorijs
+Olegs Geveilers DevOps repozitorijs pamati iesācējiem
