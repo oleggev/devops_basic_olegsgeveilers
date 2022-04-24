@@ -4,6 +4,7 @@
 ```
 git log --pretty="%h - %s" --since=1.week
 ```
+```
 2563bf3f9 - feat: support local preview, post split; add deploy preview (#30814)
 7d51ba511 - Merge pull request #30862 from hashicorp/update-TF-WORKSPACE-variable
 7b6dfabb7 - Merge pull request #30906 from hashicorp/jbardin/races
@@ -20,9 +21,10 @@ d3e660d91 - Merge pull request #30772 from hashicorp/laura-update-pre-post-condi
 b1d933936 - Final formatting nits
 eb2724d37 - Update CHANGELOG.md
 d4776e8ef - lang/funcs: type conversion functions can convert null values
-
+```
 ```
 git log --pretty="%h - %s" --since=1.week --stat
+```
 ```
 2563bf3f9 - feat: support local preview, post split; add deploy preview (#30814)
 
@@ -48,10 +50,11 @@ e68ad5ec4 - more edits
  website/docs/cli/cloud/settings.mdx | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
 912e6ff6d - Apply suggestions from PR review
-
+```
 **Nr. 17 (komentārs - atbildē noradīti tikai daži ieraksti jo reāli ir daudz Commit ko uztaisīja autors)**
 ```
 git log --pretty="%h - %s" --author='Laura Pacilio'
+```
 ```
 e68ad5ec4 - more edits
 912e6ff6d - Apply suggestions from PR review
@@ -63,10 +66,11 @@ b1d933936 - Final formatting nits
 7a43db405 - Add link to operators page and all out other types
 ba3bb5ad5 - Apply suggestions from PR review
 686dbcdb8 - fix confusing sentence on lifecycle page
-
+```
 **Nr. 18** 
 ```
 git log --pretty="%h - %s" --author='Laura Pacilio' --since="2021-09-01" --before="2021-09-31"
+```
 ```
 8f09e2759 - Merge pull request #29567 from drasko95/patch-1
 dfbef12a6 - Merge pull request #29598 from hashicorp/laura-add-mrui-to-sidebar
@@ -79,7 +83,7 @@ a819d7db3 - Merge pull request #29502 from hashicorp/alisdair/json-format-versio
 3c518880d - Merge pull request #29509 from drewmullen/d-module-source-revision-option
 1e1d47d16 - Merge pull request #28345 from yvespp/destroy_provisioners_doc
 73a3bb270 - Merge pull request #28334 from paultyng/patch-1
-
+```
 **Nr. 19**
 ```
 git log --author='Laura Pacilio' --since="2022-04-21" 
