@@ -1,5 +1,8 @@
 # Atbildes Modulis 2
 
+**Nr. 13**
+HASH neatšķirās.
+
 **Nr. 16 (komentārs - atbildē noradīti tikai daži ieraksti jo reāli ir daudz Commit)**
 ```
 git log --pretty="%h - %s" --since=1.week
